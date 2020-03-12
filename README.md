@@ -28,7 +28,7 @@ Enter the choice:
 
 Enter the Hotel name:
 
-- After enter the hotel room no will auto gentrate.
+- After enter the hotel name room no will auto gentrate.
 
 # Again,you will get same option list for enter the choice.
 # Once you choose option 2.
@@ -43,14 +43,23 @@ You can custumize the items with room selection:
 ************* Provide items with rooms ***********************
 
 1. TV --> 10$
+
 2. couch --> 15$
+
 3. table--> 5$
+
 4. A/C --> 15$
+
 5. Bed--> 20$
+
 6.Exit
+
 Enter your choice:1
+
 Enter the quantity:1
+
 Enter your choice:6
+
 Total Items Cost = USD($) 10  
 
 # Again,you will get same option list for enter the choice.
@@ -64,8 +73,8 @@ Enter customer budget in USD($):
 # If your budget is too low it show the message.
 # like
 -----------------------------------------------------------------------------------------------------------
-# Enter the choice:  
-  3
+Enter the choice:  
+3
   
 Enter customer budget in USD($):  
 600
@@ -90,15 +99,19 @@ Option 3. Room type C--> USD($) 400 PN/-
 
 Option 4. Room type D--> USD($) 300 PN/-
 
+
 Please, Enter your option:4
+
 For How many nights did you stay:1
+
 You have opted room type D
+
 Your room rent is = USD($) 300  
 
----------------------------------------condition not valid---------------------------------------------
+---------------------------------------condition not valid------------------------------------------------------------
 
-# Enter the choice:  
-``3
+Enter the choice:  
+3
 Enter customer budget in USD($):  
 200
 No rooms available in the USD($) 200 given customer budget.
@@ -110,7 +123,7 @@ This will shows the total cost.
 
 Enter the choice:  
 4
-************** Hotel Bill **************
+************************************ Hotel Bill *********************************
 Details
 Hotel name: Test
 Room no. 209
