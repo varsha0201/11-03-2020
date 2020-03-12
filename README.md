@@ -122,13 +122,19 @@ No rooms available in the USD($) 200 given customer budget.
 This will shows the total cost.
 
 Enter the choice:  
+
 4
 ************************************ Hotel Bill *********************************
 Details
+
 Hotel name: Test
+
 Room no. 209
+
 Room rent Details: 300
+
 Room Item bill is: 10
+
 Your grandtotal bill is: 310  
 
 # Again,you will get same option list for enter the choice.
