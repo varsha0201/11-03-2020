@@ -53,20 +53,23 @@ Enter the quantity:1
 Enter your choice:6
 Total Items Cost = USD($) 10  
 
-- Again,you will get same option list for enter the choice.
-Once you choose option 3.
+# Again,you will get same option list for enter the choice.
+# Once you choose option 3.
 
 This will asked you for customer budget.
 
 Enter customer budget in USD($):  
 
-# if budget is valid between their avialbe range that will show you the room type options accourding to your budget. If your budget is too low it show the message.
+# if budget is valid between their avaiable range that will show you the room type options accourding to your budget.
+# If your budget is too low it show the message.
 # like
 -----------------------------------------------------------------------------------------------------------
-Enter the choice:  
-3
+# Enter the choice:  
+  3
+  
 Enter customer budget in USD($):  
 600
+
 Following are the rooms available in given customer budget:
 
 Option 1. Room type A--> USD($) 600 PN/-
@@ -78,6 +81,7 @@ Option 3. Room type C--> USD($) 400 PN/-
 Option 4. Room type D--> USD($) 300 PN/-
 
 Please select from the below room options.
+
 Option 1. Room type A--> USD($) 600 PN/-
 
 Option 2. Room type B--> USD($) 500 PN/-
@@ -93,8 +97,8 @@ Your room rent is = USD($) 300
 
 ---------------------------------------condition not valid---------------------------------------------
 
-Enter the choice:  
-3
+# Enter the choice:  
+``3
 Enter customer budget in USD($):  
 200
 No rooms available in the USD($) 200 given customer budget.
