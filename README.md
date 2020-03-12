@@ -124,7 +124,9 @@ This will shows the total cost.
 Enter the choice:  
 
 4
+
 ************************************ Hotel Bill *********************************
+
 Details
 
 Hotel name: Test
